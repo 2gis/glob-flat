@@ -5,7 +5,7 @@ Return glob applied, flattened and duplicate filtered version of the given list 
 ## Install
 
 ```bash
-$ npm install flat-glob
+$ npm install glob-flat
 ```
 
 ## Usage
