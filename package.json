@@ -1,13 +1,14 @@
 {
-  "name": "flat-glob",
-  "version": "0.0.2",
-  "description": "Return glob applied and flattened version of the given array",
+  "name": "glob-flat",
+  "version": "1.0.0",
+  "description": "Return flatten glob version of the given array",
   "main": "index.js",
   "repository": {
-    "url": "git@github.com:2gis/flat-glob.git",
+    "url": "git@github.com:2gis/glob-flat.git",
     "type": "git"
   },
-  "author": "Artem Zanko a.zanko@2gis.ru",
+  "author": "Arten Zanko <@ArtZanko>",
+  "license": "MIT",
   "dependencies": {
     "glob": "~3.2.8"
   }
